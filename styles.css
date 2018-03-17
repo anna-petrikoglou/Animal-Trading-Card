@@ -5,7 +5,8 @@ body {
   background-color: #fbf5f5;
   max-width: 700px;
   border: 1px solid lightgrey;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); /* Box-Shadow Source: https://www.w3schools.com/css/css3_shadows.asp */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* Box Shadow Source: https://www.w3schools.com/css/css3_shadows.asp */
 }
 
 .interesting {
