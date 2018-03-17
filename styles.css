@@ -1,0 +1,85 @@
+body {
+  font-family: "Shadows Into Light", cursive;
+  text-align: center;
+  width: 400px;
+  background-color: #fbf5f5;
+  max-width: 700px;
+  border: 1px solid lightgrey;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); /* Box-Shadow Source: https://www.w3schools.com/css/css3_shadows.asp */
+}
+
+.interesting {
+  font-size: 13px;
+  font-style: italic;
+  text-align: justify;
+}
+
+span {
+  font-weight: bold;
+}
+
+/*
+Did not use since created table.
+li {
+  list-style-type: none;
+}
+*/
+
+img {
+  width: 300px;
+  margin: 1em;
+}
+
+article {
+  width: 300px;
+  margin: 0 1em 0.8em 3em;
+  border: 1px solid lightgrey;
+}
+
+table {
+  font-family: "Lora", serif;
+  background-color: #ddf0ea;
+  padding: 0px;
+  display: block;
+}
+
+header, footer {
+  background-color: #537979;
+  padding: 1px;
+}
+
+tr {
+  text-align: right;
+}
+
+td:nth-child(2) {
+  text-align: left;
+}
+
+td {
+  padding: 10px;
+  font-size: 12px;
+}
+
+p, table {
+  text-align: justify;
+}
+
+p {
+  padding: 0 10px;
+  font-size: 14px;
+}
+
+.bold {
+  color: #537979;
+  font-weight: bold;
+}
+
+h1, h4 {
+  color: white;
+}
+
+a {
+  color: lightblue;
+  text-decoration: none;
+}
