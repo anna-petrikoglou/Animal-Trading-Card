@@ -1,4 +1,4 @@
-##### Udacity | Frond-End Web Dev Nanodegree Program
+##### Udacity | Front-End Web Dev Nanodegree Program
 
 # Animail Trading Card
 
